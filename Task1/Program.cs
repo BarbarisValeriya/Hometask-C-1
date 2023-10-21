@@ -1,2 +1,13 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿// Напишите программу, которая на вход принимает 2 числа и выдает какое число меньшее, а какое большее
+
+int A = 5;
+int B = 17;
+
+if (A > B)
+    {
+    Console.Write("A - наибольшее число");
+    }
+else
+    {
+    Console.Write("A - наименьшее число");
+    }
