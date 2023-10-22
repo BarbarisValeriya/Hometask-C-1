@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Valeria\\Desktop\\Hometask C#\\Task4\\Task4.csproj": {}
+    "C:\\Users\\Valeria\\Desktop\\Geek\\Блок 3. Языки\\Hometask C#\\Task4\\Task4.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Valeria\\Desktop\\Hometask C#\\Task4\\Task4.csproj": {
+    "C:\\Users\\Valeria\\Desktop\\Geek\\Блок 3. Языки\\Hometask C#\\Task4\\Task4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Valeria\\Desktop\\Hometask C#\\Task4\\Task4.csproj",
+        "projectUniqueName": "C:\\Users\\Valeria\\Desktop\\Geek\\Блок 3. Языки\\Hometask C#\\Task4\\Task4.csproj",
         "projectName": "Task4",
-        "projectPath": "C:\\Users\\Valeria\\Desktop\\Hometask C#\\Task4\\Task4.csproj",
+        "projectPath": "C:\\Users\\Valeria\\Desktop\\Geek\\Блок 3. Языки\\Hometask C#\\Task4\\Task4.csproj",
         "packagesPath": "C:\\Users\\Valeria\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Valeria\\Desktop\\Hometask C#\\Task4\\obj\\",
+        "outputPath": "C:\\Users\\Valeria\\Desktop\\Geek\\Блок 3. Языки\\Hometask C#\\Task4\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Valeria\\AppData\\Roaming\\NuGet\\NuGet.Config"
